@@ -1,11 +1,3 @@
-
-# Simple Database Management System
-
-# SOME "DML" Commands 
-# INSERT / SELECT
-
-# TODO: Drop All
-
 # Header Start 
 print("""
 # Simple Database Management System
